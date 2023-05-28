@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "MUNDO_3_CEV"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "java.project.sourcePaths": [
+        "MUNDO_3_CEV/exe115aula23"
+    ]
+}
